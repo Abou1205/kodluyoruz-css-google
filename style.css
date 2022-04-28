@@ -1,0 +1,57 @@
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search{
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+}
+
+.content{
+    width: 90%;
+    margin: 0px auto;
+}
+
+.leftdiv{
+    width: 37%;
+    float: left;
+    background-color: #7EE5DA;
+    margin-right: 2px;
+    height: 66px;
+    padding: 10px 0 0 0;
+    margin-top: 3px;
+    text-align: center;
+}
+
+.centerdiv{
+    width: 20%;
+    float: left;
+    background-color: #70CCC2;
+    height: 71px;
+    margin-right: 2px;
+    text-align: center;
+    margin-top: 3px;
+    font-size:small;
+    padding-top: 5px;
+}
+
+.rightdiv{
+    width: 42.6%;
+    background-color: #62B3AA;
+    float: left;
+    height: 76px;
+    text-align: center;
+    margin-top: 3px;
+    font-size: small;
+}
+
+.clear{
+    clear: both;
+}
+
+p{
+    text-align: center;
+    font-size: small;
+}
